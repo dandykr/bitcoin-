@@ -13,3 +13,7 @@ alamat = (masuakan id telegram )
 
 run program 
 #python2 trading.py BTC_ETH
+
+# bersifat open source
+# NIKMATI PROFIT ANDA 
+# siapun yang menggunakan program ini , menaggung resiko sendiri
